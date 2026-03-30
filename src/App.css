@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color:black;
+  background-color:rgb(10, 10, 10);
 }
 
 .App-logo {
@@ -43,9 +43,9 @@
   object-fit: contain;
 }
 .card{
-  background-color: #c485b8;
+  background-color: #a35694;
 }
 .footer{
-   background-color: #c485b8;
+   background-color: #773369;
 
 }

@@ -13,17 +13,20 @@ const Carousel = () => {
                      <div className="carousel-inner" >
                         {/* <!-- Carousel items this entails the pictures to be potrayed--> */}
                          <div className="carousel-item active">
-                            <img src="images/slide1.jpg" alt="slide1" className=" w-100 d-block"/>
+                            <img src="images/samsung3.jpg" alt="slide1" className=" w-100 d-block"/>
                          </div>
                          <div className="carousel-item">
-                            <img src="images/slide2.jpg" alt="advert2" className="w-100 d-block"/>
+                            <img src="images/samsung1.jpg" alt="advert2" className="w-100 d-block"/>
 
                          </div>
                          <div className="carousel-item">
-                            <img src="images/slide3.jpg" alt="slide3" className="w-100 d-block"/>
+                            <img src="images/bruhm.png" alt="slide3" className="w-100 d-block"/>
                          </div>
                          <div className="carousel-item">
-                            <img src="images/slide4.jpg" alt="slide4" className="w-100 d-block"/>
+                            <img src="images/hisense.webp" alt="slide4" className="w-100 d-block"/>
+                         </div>
+                         <div className="carousel-item">
+                            <img src="images/lg2.jpg" alt="slide4" className="w-100 d-block"/>
                          </div>
 
                      </div>

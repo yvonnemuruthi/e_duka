@@ -9,8 +9,8 @@ const Footer = () => {
           
           <div className="col-md-4 ">
               <h4 className="text-center">About us</h4>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima est exercitationem ut voluptates eius minus, blanditiis maiores placeat debitis fugiat facere excepturi nostrum reiciendis enim sapiente sunt deserunt earum autem quaerat, nobis iusto, dolores ab ipsam! Voluptatum earum quam fugiat?</p>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo recusandae labore aliquam, perspiciatis sint ipsam quaerat, aut totam fugiat hic explicabo ducimus tempore ratione facilis fugit animi molestias autem itaque eveniet laboriosam debitis laborum, eius nostrum! Accusamus et beatae distinction.</p>
+              <p>In todays tech-savvy world, electronic devices play a crucial role in enhancing the efficiency, comfort, and entertainment of a modern household. The rapid advancement in technology has provided a wide array of devices that cater to everyday needs, offering convenience, security, connectivity, and enjoyment. Whether its for home automation, entertainment, or personal use, these must-have electronic devices are becoming indispensable in modern homes.</p>
+              
           </div>
 
             <div className="col-md-4">
@@ -28,8 +28,8 @@ const Footer = () => {
                           <a href="https://www.instagram.com"><img src="images/in.png" alt="" /></a>
                           <a href="https://www.x.com"><img src="images/x.png" alt="" /></a>
                           <p className="mt-3">For any compliments, feedback and compliments kindly reach us on our social media or reach us via our hotlines +254119355142 </p>
-                      </div>
-               <section class="row bg-dark text-light text-center pt-2">
+                      </div><br />
+               <section class="row bg-dark text-light text-center pt-2 mt-3">
                 <h4 class="fs-5">Developed by Yvonne. &copy; 2026. All Rights Reserved</h4>
                </section>
 
